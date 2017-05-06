@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Fidddle/Macadamia/master/lgo-wide.png)</br>
+![alt text](https://raw.githubusercontent.com/Fidddle/Macadamia/master/lgo-mini.png)</br>
 <b>Automative people-spread corporate governance system.</b>
 
 
