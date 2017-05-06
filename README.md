@@ -1,6 +1,4 @@
 ![alt text](https://raw.githubusercontent.com/Fidddle/Macadamia/master/lgo-nano.png)
-
-# Macadamia
 Automative people-spread corporate governance system.
 
 
